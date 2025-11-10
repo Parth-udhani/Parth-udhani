@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SOmething related android Development
 - 📫 How to reach me LinkedIn : Parth Udhani 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a good fact!
+- ⚡ Fun fact: I like to ride bikes !
 
 <!---
 Parth-udhani/Parth-udhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
